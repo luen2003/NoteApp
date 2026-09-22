@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".AddEditNoteActivity"
     android:background="@color/yellow">
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -13,7 +14,9 @@
         android:hint="Enter Note Title"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
+        android:backgroundTint="#00FFFF"
         android:layout_margin="10dp"/>
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -21,12 +24,14 @@
         android:hint="Enter Note Description"
         android:textColorHint="@color/white"
         android:textColor="@color/white"
+        android:backgroundTint="#00FFFF"
         android:layout_margin="10dp"
         android:gravity="start|top"
         android:inputType="textMultiLine"
         android:layout_above="@id/idBtnAddUpdate"
         android:singleLine="false"
         android:layout_below="@id/idEdtNoteTitle"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
