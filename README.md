@@ -6,6 +6,6 @@ Một ứng dụng ghi chú hiện đại, tối giản và trực quan. Dự á
 ## ✨ Tính Năng Nổi Bật
 
 * **Tạo và Quản lý Ghi chú:** Thêm, sửa, xóa và tổ chức ghi chú dễ dàng với định dạng phong phú.
-* **Giao diện Thân thiện:** Bố cục rõ ràng, khoa học.
+* **Giao diện Thân thiện:** Bố cục rõ ràng, thuận tiện.
 * **Hiệu suất Tối ưu:** Ứng dụng nhẹ, tải nhanh và hoạt động mượt mà.
 
